@@ -17,6 +17,7 @@
 		185209481DCB3DD000E6E580 /* DetailForImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185209471DCB3DD000E6E580 /* DetailForImageViewController.swift */; };
 		1852094A1DCB3DF000E6E580 /* ImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185209491DCB3DF000E6E580 /* ImageData.swift */; };
 		185209501DCB577200E6E580 /* TableViewControllerPhotos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1852094F1DCB577200E6E580 /* TableViewControllerPhotos.swift */; };
+		1899E3631DD48FDD00363BD8 /* aaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1899E3621DD48FDD00363BD8 /* aaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		185209471DCB3DD000E6E580 /* DetailForImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailForImageViewController.swift; sourceTree = "<group>"; };
 		185209491DCB3DF000E6E580 /* ImageData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageData.swift; sourceTree = "<group>"; };
 		1852094F1DCB577200E6E580 /* TableViewControllerPhotos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewControllerPhotos.swift; sourceTree = "<group>"; };
+		1899E3621DD48FDD00363BD8 /* aaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				185209471DCB3DD000E6E580 /* DetailForImageViewController.swift */,
 				185209491DCB3DF000E6E580 /* ImageData.swift */,
 				1852094F1DCB577200E6E580 /* TableViewControllerPhotos.swift */,
+				1899E3621DD48FDD00363BD8 /* aaViewController.swift */,
 			);
 			path = tablessss;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				185209501DCB577200E6E580 /* TableViewControllerPhotos.swift in Sources */,
 				185209461DCB3DA900E6E580 /* ShowImageViewController.swift in Sources */,
 				1852094A1DCB3DF000E6E580 /* ImageData.swift in Sources */,
+				1899E3631DD48FDD00363BD8 /* aaViewController.swift in Sources */,
 				185209181DCAF92500E6E580 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
